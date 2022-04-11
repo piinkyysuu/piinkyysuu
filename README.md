@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @piinkyysuu aka Thu
 - 👀 I’m interested in programming and solving problems
-- 🌱 I’m currently learning about C at Hive Helsinki
+- 🌱 I’m currently learning about programming (specifically C) at Hive Helsinki
 
 <!---
 piinkyysuu/piinkyysuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
